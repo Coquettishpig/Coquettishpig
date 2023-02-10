@@ -12,11 +12,12 @@ I am Coquettishpigs From China
 </p>
 
 ### My Language
-Chinese, Asia/BeiJing
+
 中文 ✓ | English ✓ 
 日本語 ✓ | Español ✓
 
 ### My Work
+
 Minecraft Top Staff
 
 ### More from me ✨
