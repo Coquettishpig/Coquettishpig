@@ -11,6 +11,14 @@ I am Coquettishpigs From China
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
 </p>
 
+### My Language
+Chinese, Asia/BeiJing
+中文 ✓ | English ✓ 
+日本語 ✓ | Español ✓
+
+### My Work
+Minecraft Top Staff
+
 ### More from me ✨
 
 - 🌱 I am learning: Frontend
