@@ -13,8 +13,8 @@ I am Coquettishpigs From China
 
 ### My Language
 
-中文 ✓ | English ✓ 
-日本語 ✓ | Español ✓
+中文 ✓ | English ✓ | 日本語 ✓ | Español ✓
+
 
 ### My Work
 
