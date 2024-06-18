@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am Coquettishpigs From China
+I am Coquettishpig From China
 
 ### My Stack 📚
 
@@ -18,7 +18,7 @@ I am Coquettishpigs From China
 
 ### My Work
 
-Minecraft Top Staff
+TopCraB Staff
 
 ### More from me ✨
 
