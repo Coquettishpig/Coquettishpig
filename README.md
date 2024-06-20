@@ -1,8 +1,8 @@
-### Hello 👋
+### 你好 Hello 👋
 
 I am Coquettishpig From China
 
-### My Stack 📚
+### 我的堆栈 My Stack 📚 
 
 <p align="left">
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
@@ -11,16 +11,19 @@ I am Coquettishpig From China
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
 </p>
 
-### My Language
+### 可沟通语言 My Language 📑
 
 中文 ✓ | English ✓ | 日本語 ✓ | Español ✓
 
+### 工作经历 Work Experience (Minecraft) 🌄
 
-### My Work
+- [x] **TopCarB** 管理、策划、运营 [2024]
+- [x] **MinecraftTop** 开发、运营 [2023]
+- [x] **YiShiMc** 开发、管理、反作弊 [2023]
+- [x] **YMZC** 开发、管理、运营 [2020-2024]
+- [x] **McBrs** 开发、管理、运营、反作弊 [2018-2020]
 
-TopCraB Staff
+### 关于我 About Me ✨
 
-### More from me ✨
-
-- 🌱 I am learning: Frontend
+- 🌱 I am learning: Frontend、Java
 - 📫 Contact me: [Discord](Coquettishpig#5454) [Email](mailto:2609014562@qq.com)
