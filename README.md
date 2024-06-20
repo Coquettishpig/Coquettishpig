@@ -27,4 +27,4 @@ I am Coquettishpig From China
 ### 关于我 About Me ✨
 
 - 🌱 I am learning: Frontend、Java
-- 📫 Contact me: [Discord](Coquettishpig#5454) [Email](mailto:2609014562@qq.com)
+- 📫 Contact me: [Discord](Coquettishpig) [Email](mailto:2609014562@qq.com) [QQ]2609014562
