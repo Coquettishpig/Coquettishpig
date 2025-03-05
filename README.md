@@ -21,7 +21,7 @@ I am Coquettishpig From China
 
 ### 工作经历 Work Experience (Minecraft) 🌄
 
-- [x] **TopCraB** 管理、策划、运营 [2024]
+- [x] **TopCraB** 管理、小游戏策划、开发[2024-2052]
 - [x] **MinecraftTop** 开发、运营 [2023]
 - [x] **YiShiMc** 开发、管理、反作弊 [2023]
 - [x] **YMZC** 开发、管理、运营 [2020-2024]
